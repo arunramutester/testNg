@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="51733" started-at="2022-12-26T06:15:07Z" finished-at="2022-12-26T06:15:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="51733" started-at="2022-12-26T06:15:07Z" finished-at="2022-12-26T06:15:58Z">
+      <class name="com.ecommerce.stepDefinition.AmazonTask">
+        <test-method status="PASS" signature="window()[pri:0, instance:com.ecommerce.stepDefinition.AmazonTask@4667ae56]" name="window" is-config="true" duration-ms="7099" started-at="2022-12-26T06:15:44Z" finished-at="2022-12-26T06:15:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- window -->
+        <test-method status="PASS" signature="search()[pri:1, instance:com.ecommerce.stepDefinition.AmazonTask@4667ae56]" name="search" duration-ms="6452" started-at="2022-12-26T06:15:51Z" finished-at="2022-12-26T06:15:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:com.ecommerce.stepDefinition.AmazonTask@4667ae56]" name="startTime" is-config="true" duration-ms="0" started-at="2022-12-26T06:15:51Z" finished-at="2022-12-26T06:15:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:com.ecommerce.stepDefinition.AmazonTask@4667ae56]" name="endTime" is-config="true" duration-ms="0" started-at="2022-12-26T06:15:57Z" finished-at="2022-12-26T06:15:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.ecommerce.stepDefinition.AmazonTask@4667ae56]" name="close" is-config="true" duration-ms="1304" started-at="2022-12-26T06:15:57Z" finished-at="2022-12-26T06:15:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.ecommerce.stepDefinition.AmazonTask -->
+      <class name="com.ecommerce.stepDefinition.FlipkartTask">
+        <test-method status="PASS" signature="window()[pri:0, instance:com.ecommerce.stepDefinition.FlipkartTask@1a968a59]" name="window" is-config="true" duration-ms="36616" started-at="2022-12-26T06:15:07Z" finished-at="2022-12-26T06:15:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- window -->
+        <test-method status="PASS" signature="Start()[pri:0, instance:com.ecommerce.stepDefinition.FlipkartTask@1a968a59]" name="Start" is-config="true" duration-ms="1" started-at="2022-12-26T06:15:43Z" finished-at="2022-12-26T06:15:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+        <test-method status="PASS" signature="login()[pri:1, instance:com.ecommerce.stepDefinition.FlipkartTask@1a968a59]" name="login" duration-ms="198" started-at="2022-12-26T06:15:43Z" finished-at="2022-12-26T06:15:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="end()[pri:0, instance:com.ecommerce.stepDefinition.FlipkartTask@1a968a59]" name="end" is-config="true" duration-ms="0" started-at="2022-12-26T06:15:44Z" finished-at="2022-12-26T06:15:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- com.ecommerce.stepDefinition.FlipkartTask -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
